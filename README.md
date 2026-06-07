@@ -12,11 +12,18 @@ En plein cursus à l'**École 42 Angouleme**, je me spécialise dans l'univers d
 ![Bash](https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-FF6C37?style=for-the-badge&logo=k3s&logoColor=white)
 
 ### 💻 Langages & Développement
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 *(En cours d'apprentissage / Prochaines étapes : Terraform 🏗️ | Kubernetes ☸️)*
 
@@ -33,7 +40,7 @@ En plein cursus à l'**École 42 Angouleme**, je me spécialise dans l'univers d
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Blankxx420]&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Stats GitHub de [Ton Prénom]" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[Blankxx420]&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Stats GitHub de [Blankxx420]" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Blankxx420]&layout=compact&theme=dark" alt="Langages les plus utilisés" height="180px"/>
 </p>
 
