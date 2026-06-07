@@ -24,17 +24,17 @@ En plein cursus à l'**École 42 Angouleme**, je me spécialise dans l'univers d
 
 ## 🚀 Projets 42 Marquants (Focus SysAdmin / DevOps)
 
-*   **[Inception](URL_DE_TON_REPO_INCEPTION)** : Mise en place d'une infrastructure multi-conteneurs (Nginx, WordPress, MariaDB) entièrement configurée via de vrais `Dockerfiles` personnalisés et un `docker-compose.yml`.
-*   **[Born2beroot](URL_DE_TON_REPO_BORN2BEROOT)** : Configuration complète d'un serveur Debian sécurisé (SSH, UFW, Sudoers, LVM) avec script de monitoring automatisé en Bash (Cron).
-*   **[Minishell](URL_DE_TON_REPO_MINISHELL)** : Recréation d'un interpréteur de commandes en C (gestion des pipes, des redirections et des signaux). Idéal pour comprendre les entrailles du système.
+*   **[Inception-of-Things](https://github.com/Blankxx420/IOT)** : Introduction à l'orchestration avec K3s (version légère de Kubernetes). Déploiement automatisé d'applications en conteneurs, gestion du routage réseau (Ingress), du stockage et initiation aux concepts de GitOps (ArgoCD).
+*   **[Inception](https://github.com/Blankxx420/Inception)** : Mise en place d'une infrastructure multi-conteneurs (Nginx, WordPress, MariaDB) entièrement configurée via de vrais `Dockerfiles` personnalisés et un `docker-compose.yml`.
+*   **[Born2beroot]** : Configuration complète d'un serveur Debian sécurisé (SSH, UFW, Sudoers, LVM) avec script de monitoring automatisé en Bash (Cron).
 
 ---
 
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO_GITHUB]&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Stats GitHub de [Ton Prénom]" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_PSEUDO_GITHUB]&layout=compact&theme=dark" alt="Langages les plus utilisés" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[Blankxx420]&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Stats GitHub de [Ton Prénom]" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Blankxx420]&layout=compact&theme=dark" alt="Langages les plus utilisés" height="180px"/>
 </p>
 
 ---
@@ -43,6 +43,5 @@ En plein cursus à l'**École 42 Angouleme**, je me spécialise dans l'univers d
 
 Je suis toujours ouvert aux discussions autour du DevOps, de l'Open Source, ou pour collaborer sur des projets d'automatisation !
 
-*   **LinkedIn :** [linkedin.com/in/[TON_LINKEDIN]](https://linkedin.com/in/[TON_LINKEDIN])
-*   **Intra 42 :** `[TON_LOGIN_42]`
-*   **Email :** `[TON_ADRESSE_EMAIL]`
+*   **Intra 42 :** brguicho
+*   **Email :** `briceguichou.dev@gmail.com
