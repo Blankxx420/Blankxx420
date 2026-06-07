@@ -40,10 +40,9 @@ En plein cursus à l'**École 42 Angouleme**, je me spécialise dans l'univers d
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blankxx420&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Stats GitHub de Blankxx420" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blankxx420&layout=compact&theme=dark" alt="Langages les plus utilisés" height="180px"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Blankxx420&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Stats GitHub de Blankxx420" height="180px"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Blankxx420&layout=compact&theme=dark" alt="Langages les plus utilisés" height="180px"/>
 </p>
-
 ---
 
 ## 🤝 On reste en contact ?
